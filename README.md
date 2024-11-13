@@ -12,12 +12,12 @@ This project follows the outline and instructions provided on the Mode Analytics
 
 # Project Files
 
-- **yammer_events.csv**: The original data file from Yammer, containing event data.
-- **Understanding Search Functionality.docx**: A Word document providing an in-depth analysis of the project.
-- **Understanding Search Functionality.pdf**: A PDF version of the analysis document.
-- **countEventsQuery.xlsx**: Data and charts from Part 1 of the project, focusing on initial query results.
-- **searchQuery.xlsx**: Data and charts from Part 2 of the project, detailing findings from the second query.
-- **searchClickResultQuery.xlsx**: Data and charts from Part 3 of the project, covering the third query and its insights.
+- **`yammer_events.csv`**: The original data file from Yammer, containing event data.
+- **`Understanding Search Functionality.docx`**: A Word document providing an in-depth analysis of the project.
+- **`Understanding Search Functionality.pdf`**: A PDF version of the analysis document.
+- **`countEventsQuery.xlsx`**: Data and charts from Part 1 of the project, focusing on initial query results.
+- **`searchQuery.xlsx`**: Data and charts from Part 2 of the project, detailing findings from the second query.
+- **`searchClickResultQuery.xlsx`**: Data and charts from Part 3 of the project, covering the third query and its insights.
 
 # Additional Information
 
